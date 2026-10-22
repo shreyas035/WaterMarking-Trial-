@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+*.sqlite3
+backend/storage/
+backend/securetrace.db
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+.env.local
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+image.png
